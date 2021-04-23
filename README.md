@@ -1,7 +1,7 @@
 # Space-Invaders
 I am recreating the classic arcade game Space Invaders to learn the pygame module in Python.
 
-The files are currently quite messy, but that is to be expected when I am learning new in programming.
+The files are currently quite messy, but that is to be expected when I am learning something in programming.
 I will clean up the code, write more comments, and make everything more efficient when I am done.
 
 ## Todo
