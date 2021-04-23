@@ -1,0 +1,15 @@
+#### fix player movement upon reset/dying
+#### delete missiles when leave screen
+#### bugged out alien when "jumping"??? probably too many missiles
+#### create pixel art
+#### gameover screen being skipped when buttons held
+
+destroy player on death
+create barriers
+scale laser randomness towards player
+hiscores
+make more aliens
+laser image/animation
+jitter aliens
+
+death animation?
